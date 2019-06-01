@@ -7,7 +7,7 @@
 * From there we will read out the list of contacts with numbers user can enter the number of the contact that should be read off.
 
 
-## Build 
+## Build
 
 ### Firebase database
 * Just a list of contacts with users 
@@ -46,3 +46,4 @@ Contact {
 * MVP
 When a user calls in they are prompted with a welcome message that has them enter in their code
 This will then propmt them for what contact they are looking for.
+* Use the either Amazon, google, or twillo to then create a phone number that will call the service
