@@ -42,3 +42,7 @@ Contact {
 
 ### Automated calling service
 * Use the either Amazon, google, or twillo to then create a phone number that will call the 
+
+* MVP
+When a user calls in they are prompted with a welcome message that has them enter in their code
+This will then propmt them for what contact they are looking for.
